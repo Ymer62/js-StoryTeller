@@ -1,0 +1,66 @@
+
+@font-face {
+  font-family: fiendish;
+  src: url(../font/Fiendish.ttf);
+}
+
+@font-face {
+  font-family: eraser;
+  src: url(../font/Eraser.ttf);
+}
+
+
+
+#back{
+  margin: 0 auto;
+  background-image: url(../images/bombes.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#pream{
+  text-align: center;
+  font-family: fiendish;
+  font-size: 300%;
+  color: red;
+}
+
+#preambule{
+  padding: 30px;
+  margin-top: 80px;
+  border-top: 2px solid orange;
+  height: 300px;
+}
+#hist{
+  text-shadow: 2px 4px black;
+  text-align: center;
+  color : white;
+  font-size: 20px;
+  font-family: eraser;
+}
+button{
+  margin-left: 45%;
+}
+
+#histoire{
+  background-image: url(../images/postapo2.jpeg);
+}
+
+#post{
+  text-align: center;
+  font-family: fiendish;
+  font-size: 150%;
+  color: red;
+}
+
+#texte{
+  padding : 20px;
+  padding-top: 50px;
+  color: white;
+  font-family: eraser;
+  height: 550px;
+  width: 520px;
+  margin-left: 30%;
+  border-radius: 15%;
+  background-color: rgba(0, 0, 0, 0.7);
+}
